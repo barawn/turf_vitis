@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="turf_startup" location="V:/turf_vitis/workspace/turf_startup" platform="V:/turf_vitis/workspace/pueo_turf/export/pueo_turf/pueo_turf.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="turf_startup_system" sysConfig="pueo_turf" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="eabfca9356fe48b35e6f38df7c1cec62">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1327911778" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.781031413" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
